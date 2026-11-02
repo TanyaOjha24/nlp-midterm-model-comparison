@@ -1,0 +1,4 @@
+Model,Training Loss,Validation Loss,Parameters or Entries,Execution Time (seconds),Time Type
+Bigram,2.4515,2.4996,4225,0.1043,Construction
+LSTM,1.2586,1.5671,946625,65.78,Training
+Transformer,1.5916,1.8096,429889,45.55,Training
