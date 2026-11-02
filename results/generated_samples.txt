@@ -1,0 +1,70 @@
+
+CHARACTER-LEVEL LANGUAGE MODEL GENERATED SAMPLES
+Dataset: Tiny Shakespeare
+Prompt: ROMEO:
+Generation length: 500 characters
+
+==================================================
+1. BIGRAM MODEL
+==================================================
+
+ROMEO:
+Climagomour wedvis I n od y hauDY f bamith Bethatheve,
+S:
+METhe rom the fe
+Hando in urveimomaneranthe hthtend t:
+Cos, t Wh atayono shifay asisuloorend t wanghedve
+ANoma herencunemys bl o kXFin fanconys grs ntellf II d ate.
+CAl h,
+
+Qn s tir tith rtithareve ccurs, horarand bulcoowere I aroue farorenifor
+IIS: ntak.
+USthe or highis,
+Bo nn-'t eve.
+Coveswh hen hidisty atimes Hepoth hat cho, tl onemasour herorker d a VICher tharare thatheeth mirullewend.
+DUMusy nd norit y; an:
+ARCEnd ly w towitha har
+
+==================================================
+2. LSTM MODEL
+==================================================
+
+ROMEO:
+I have mend the peace sing come of love
+That thou art shall be bohthy to thy heapts,
+That thou shalt cry lived him purse, be well
+The month must addich yet with present.
+
+MERCUTIO:
+Nay, nor grief, all I shall be this cheeks,
+Gresson and many thought of death, my lord.
+
+FRIAR LAURENCE:
+Ay, well, looks her met
+That fear, if you may take your soldiers have
+Whom so sure you honour may be not.
+
+CAMILLO:
+Yes, I did show me to thy blood is accustonment,
+My shame, my lord that cheeks the gives or thine
+
+==================================================
+3. TRANSFORMER MODEL
+==================================================
+
+ROMEO:
+That shall the colse to the viest:
+Your'd death good of your like as and by show king whom like
+me in we come lord, and her but a rest your heart?
+
+COMILLO:
+I hand he soul, be can it fiest the with but a stand a shup like cammerroved rust as means.
+
+CRICHARD:
+Your me think my passit, who hast with the will us.
+
+VOLUMNIA:
+The king they mode you but field man,
+But the was this own my prince me will then and of me officed,
+That have how it.
+Do shall warrian thou of the Corious with The speak ene i
